@@ -1,0 +1,50 @@
+.logo_kfc {
+  width: 100px;
+  height: 100px;
+}
+.name {
+  background-color: red;
+  color: white;
+}
+.home {
+  font-size: 20px;
+}
+.container_1 {
+  background-color: #a52a2a;
+}
+.name2 {
+  text-align: center;
+  color: white;
+}
+.font {
+  font-size: 30px;
+  color: white;
+  text-align: justify;
+}
+.font_1 {
+  color: black;
+}
+img {
+  width: 600px;
+}
+.container_2 {
+  background-color: #a52a2a;
+  color: white;
+}
+.name_3 {
+  text-align: center;
+  font-size: 40px;
+}
+ul {
+  font-size: 25px;
+}
+
+.name_4 {
+  text-align: center;
+}
+
+table {
+  width: 900px;
+  height: 800px;
+  margin: auto;
+}
